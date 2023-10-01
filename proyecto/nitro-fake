@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/28fbae1d25.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <meta name="twitter:image" content="https://replit.com/@ElCointor/cointor#Imagen/Fondo.jpg">
+    <meta content="Cointor - Proyecto Nitro Fake Explicado" property="og:title">
+    <meta content="Cointor" property="og:site_name">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta content='https://replit.com/@ElCointor/cointor#Imagen/Web.png' property='og:image'>
+    <meta name="theme-color" content="#014670">
+    <title>Proyecto - Nitro Fake</title>
+    
+    <link rel="shortcut icon" type="image/jpg" href="../Imagen/logo.png" />
+  </head>
+  <body>
+    <div id="background">
+      <div id="header">
+        <center>
+         <section class="py-5 bg-dark text-light">
+    <div class="container">
+    <center><h4>Codigos y mas:</h4></center>
+    <br>
+    <center><p>Proyecto 3, Free Nitro Fake</p><code></code></center>
+    <br>
+    <p>¡Hola! Esta vez cre una web donde seran Rick rolleados por un supuesto """Free Nitro""" Lo que ocurre es que entran el link y aparecera una opcion de elegir Cokies y acepte o no los mandara a un Full svideo Rick</p>
+    <br>
+    <br>
+    <center>
+    <a href="https://www.freenitro.gq/" target="_blank"><img src="../Imagen/01.PNG" ></a>
+    <br>
+    <br>
+    <p>Todo el codigo para Fork esta en el area de recursos, No c&p Lee y estudia el codigo ya que si no lo haces se te dificultara aprender</p>
+    <br>
+    <br>
+    
+<h2>Recursos:</h2>
+<br>
+<p>Web de la pagina <a href="https://www.freenitro.gq/" target="_blank"></i>Click Aqui</a></p></p> 
+</center>
+       
+    </div>
+</section>
+        </center>
+      </div>
+      <div id="body">
+        
+  </body>
+</html>

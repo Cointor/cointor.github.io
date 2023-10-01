@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="description" content="Come on, shake your body baby.">
+
+<link rel="stylesheet" href="../r/reset.css">
+<link rel="stylesheet" href="../r/style.css">
+<title>Cointor Es Pro Oshi</title>
+</head>
+<body> 
+<script src="../r/dito.js"></script> 
+<audio controls preload="" loop> 
+<source src="../music/conga.mp3" type="audio/mp3"> 
+<embed src="../music/conga.mp3" loop> 
+</audio>
+</body>
+</html>
