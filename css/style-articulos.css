@@ -113,7 +113,33 @@
   transform: scale(1.05);
 }
 
+.proy3{
+  background-image: url("../img/proyectos/img3.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
 
+.proy3:hover{
+  transform: scale(1.05);
+}
+
+.proy4{
+  background-image: url("../img/proyectos/img4.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proy4:hover{
+  transform: scale(1.05);
+}
 /* Colores de fondo para botones */
 
 .nav-link, .nav-link:focus ,.nav-link:hover{
